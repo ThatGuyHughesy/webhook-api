@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+logs/
+.env
+.env.test
+.env.development
+.env.production
+.DS_STORE
